@@ -32,7 +32,7 @@ gem 'faker'
 	#gem 'sqlite3'
 #end
 
-group :production do
+#group :production do
 	
-	gem 'rails_12factor'
-end
+#	gem 'rails_12factor'
+#end
